@@ -1,6 +1,8 @@
-# WhatsApp Web Intention Prompt
+![WhatsApp Web Intention Prompt Screenshot](screenshot.png "Screenshot of the extension in action")
 
-This Chrome extension helps you stay focused and intentional while using WhatsApp Web. It prompts you to record your intention for using WhatsApp each time you open or switch to the tab, encouraging mindfulness and reducing distractions.
+# WhatsApp Web Intention Prompt 📝⌚
+
+This Chrome extension helps you stay focused and intentional while using WhatsApp Web. It prompts you to record your intention for using WhatsApp each time you open or switch to the tab, encouraging mindfulness and reducing distractions. 🧘‍♀️🚀
 
 ## Why use this extension?
 
