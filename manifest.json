@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp Web Intention Prompt",
+  "version": "1.0",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://web.whatsapp.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
